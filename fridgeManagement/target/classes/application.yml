@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: fridgeManagement
+  data:
+    rest:
+      base-path: /v1/
+    cassandra:
+      contact-points: localhost
+      keyspace-name: fridgeManagement
+      port: 9042
+      username: cassandra
+      password: cassandra
+  jackson:
+    property-naming-strategy: SNAKE_CASE
+
+connect.timeout: 10000000
+read.timeout: 10000000
+
+logging.level.org.springframework.data: debug
+logging.level.: error
