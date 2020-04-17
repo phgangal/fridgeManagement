@@ -1,6 +1,6 @@
 URL to swagger : http://localhost:8080/swagger-ui.html
 
-URL to working ID: http://localhost:8080/v1/product/13860428
+URL to working ID: http://localhost:8080/v1
 
 Other Installations - GIT, Maven, Java 8 
 
