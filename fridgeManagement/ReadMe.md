@@ -6,10 +6,10 @@ Other Installations - GIT, Maven, Java 8, Cassandra
 
 Project :
 
-1. clone the project https://github.com/chandanaveen/targetMyRetail.git
+1. clone the project https://github.com/phgangal/fridgeManagement
 2. navigate to the root folder using git bash or windows command line
 3. run the command maven clean package
-4. Navigate <root path to cloned project >\myretail\target\
+4. Navigate <root path to cloned project >\frisgemenegement\
 5. Run the command java -jar targetMyRetail-0.0.1-SNAPSHOT.jar
 
 Cassandra and run the following commands
